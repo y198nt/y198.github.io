@@ -22,9 +22,9 @@ defaultBackgroundImage = "background.png" # used as default for background image
 #defaultFeaturedImage = "img/featured.png" # used as default for featured images in all articles
 
 
-# highlightCurrentMenuArea = true
-# smartTOC = true
-# smartTOCHideUnfocusedChildren = true
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
 
 [header]
   layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
@@ -103,7 +103,7 @@ defaultBackgroundImage = "background.png" # used as default for background image
   showBreadcrumbs = false
   showViews = false
   showLikes = false
-  showTableOfContents = false
+  showTableOfContents = true
   cardView = false
 
 [term]
