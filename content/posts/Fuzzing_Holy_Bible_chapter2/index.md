@@ -4,8 +4,15 @@ date: 2023-11-27
 draft: false
 summary: "Using LibAFL fuzzer to reproduce CVE-2009-3895 & CVE-2012-2836"
 tags: ["libafl"]
+output: 
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: true
+    toc_depth: 3
+    number_sections: true
 ---
-
+-------------
 ###### tags: `libafl`
 
 

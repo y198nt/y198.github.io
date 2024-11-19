@@ -13,7 +13,7 @@ title = "y198"
   description = "My awesome website"
   copyright = ":copyright: y198 was here"
 
- [author]
+ [params.author]
    name = "y198"
    image = "img/profile.png"
    headline = "living a life you will remember"
