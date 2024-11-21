@@ -11,7 +11,7 @@ title = "y198"
   logo = "img/blowfish_logo_transparent.png"
   secondaryLogo = "img/logo.png"
   description = "My awesome website"
-  copyright = ":copyright: y198 was here"
+  copyright = "y198 was here"
 
  [params.author]
    name = "y198"
