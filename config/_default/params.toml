@@ -43,7 +43,7 @@ smartTOCHideUnfocusedChildren = true
   showRecentItems = 6
   showMoreLink = true
   showMoreLinkDest = "/posts"
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 
@@ -84,7 +84,7 @@ smartTOCHideUnfocusedChildren = true
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
   showSummary = true
-  showViews = false
+  showViews = true
   showLikes = false
   showTableOfContents = true
   showCards = true
